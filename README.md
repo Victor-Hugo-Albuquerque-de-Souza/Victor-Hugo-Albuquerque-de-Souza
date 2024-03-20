@@ -1,4 +1,4 @@
 Hello!
 
-I'm a frontend developer and Software Engineering student with experience in sales B2B, market research, leadership, and business management. I have interests in frontend technologies such as HTML, CSS, and Javascript, as well as modern frontend frameworks, like React. Known as an easy-going professional, very collaborative, and with great energy to increase my boundaries in the field of technology.
+I am a developer and a Software Engineering student with two years of professional experience in web development. I have expertise in frontend technologies such as Vue, React, and their respective frameworks Nuxt and Next. Recognized for being easy-going, highly collaborative, and possessing the drive to continuously expand my skill set.
 
